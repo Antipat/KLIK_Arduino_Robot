@@ -1,6 +1,7 @@
-## NiKi_Arduino_Robot
-Библиотека **NikiR_I2C_Motor** по управлению моторами с энкодерами по I2C
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
+## NiKi_Arduino_Robot
+Библиотека :fire: **NikiR_I2C_Motor** по управлению моторами с энкодерами по I2C
 
 
 Мотор с энкодером I2C
