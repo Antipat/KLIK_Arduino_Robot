@@ -1,10 +1,6 @@
 ## NiKi_Arduino_Robot
-Библиотека 
-<font color="#DC143C"> NikiR_I2C_Motor </font> 
-по управлению моторами с энкодерами по I2C
-<body>
- <p>Конструктор сайтов <font size="6" color="#fa8e47" face="serif">"Нубекс"</font></p>
- </body>
+Библиотека **NikiR_I2C_Motor** по управлению моторами с энкодерами по I2C
+
 
 
 Мотор с энкодером I2C
