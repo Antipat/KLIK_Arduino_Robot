@@ -10,7 +10,7 @@
 ***Два способа скачать*** :
 
 ***1 Способ*** - выберите папку и скачайте её.
-![Image alt](https://github.com/Antipat/KLIK_Arduino_Robot/blob/main/Im/18.png)
+![Image alt](https://github.com/Antipat/KLIK_Arduino_Robot/blob/main/Im/Clip2net_250301181742.png)
 
 ***2 Способ*** - скачайте zipархив по ссылке https://disk.yandex.ru/d/3h56aqckiyxLCQ 
 
