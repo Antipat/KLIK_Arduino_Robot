@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ## KLIK_Arduino_Robot
-# KLIK_Arduino_Robot - проек, разработанный для наборов КЛИК, КЛИК2 и НикиРобот.
+# KLIK_Arduino_Robot - проект, разработанный для наборов КЛИК, КЛИК2 и НикиРобот.
 
 Библиотека :fire: **KLIK_I2C_Motor.h** используется для управления моторами с энкодерами по I2C.
 Данные моторы входят в ресурсный набор.
