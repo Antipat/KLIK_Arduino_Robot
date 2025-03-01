@@ -14,10 +14,15 @@
 
 ***2 Способ*** - скачайте zipархив по ссылке https://disk.yandex.ru/d/3h56aqckiyxLCQ 
 
-
-
-
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
 Мотор с энкодером I2C
 ![Image alt](https://github.com/Antipat/KLIK_Arduino_Robot/blob/main/Im/7.png)
 
