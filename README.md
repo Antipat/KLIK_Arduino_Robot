@@ -9,7 +9,7 @@
 ***Скачайте и импортируйте*** zip архив библиотеки. 
 ***Два способа скачать*** :
 
-***1 Способ*** - выберите папку и скачайте её.
+***1 Способ*** - выберите zip файл KLIK_I2C_Motor и скачайте его.
 ![Image alt](https://github.com/Antipat/KLIK_Arduino_Robot/blob/main/Im/Clip2net_250301181742.png)
 
 ***2 Способ*** - скачайте zipархив по ссылке https://disk.yandex.ru/d/3h56aqckiyxLCQ 
